@@ -1,0 +1,23 @@
+{
+    "name": "xinyue/statistics",
+    "description": "",
+    "authors": [
+        {
+            "name": "Jacob Sun",
+            "email": "yudi.sun@xinyue.io"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Statistics\\": ""
+        }
+    }
+}

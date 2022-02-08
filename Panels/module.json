@@ -1,0 +1,13 @@
+{
+  "name": "Panels",
+  "alias": "panels",
+  "description": "",
+  "keywords": [],
+  "priority": 0,
+  "providers": [
+	"Modules\\Panels\\Providers\\PanelsServiceProvider"
+  ],
+  "aliases": {},
+  "files": [],
+  "requires": []
+}
