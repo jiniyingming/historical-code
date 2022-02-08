@@ -1,0 +1,13 @@
+{
+  "name": "InternalApi",
+  "alias": "internalapi",
+  "description": "",
+  "keywords": [],
+  "priority": 0,
+  "providers": [
+	"Modules\\InternalApi\\Providers\\InternalApiServiceProvider"
+  ],
+  "aliases": {},
+  "files": [],
+  "requires": []
+}
